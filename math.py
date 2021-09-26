@@ -6,7 +6,7 @@ def add(x,y):
 def subtract(x,y):
 	pass
 
-# Multiply implementation
+# Multiply implementation     #added fn on local
 def multiply(x,y):
 	pass
 
