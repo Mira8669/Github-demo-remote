@@ -2,8 +2,8 @@
 def add(x,y):
 	return x+y
 
-# Subtract implementation
-def subtract(x,y):
+# Subtract implementation               
+def subtract(x,y):             #impleted subtract on remote repo
 	pass
 
 # Multiply implementation
